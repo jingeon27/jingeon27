@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?render&animation=fadeIn&type=waving&color=0:ffffff,100:230C67&height=300&section=header&text=jingeon27&fontSize=90&fontColor=230C67)
 <br/>
-⚒️ TechStack ⚒️ 
+# ⚒️ TechStack ⚒️ 
 <br/>
 <br/>
-☀️ client
+## ☀️ client
 <br/>
 <br/>
 <a href='#'><img src="https://img.shields.io/badge/HTML5-E44F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -21,7 +21,7 @@
 <a href='#'><img src="https://img.shields.io/badge/Preact-673AB8?style=flat-square&logo=Preact&logoColor=white"/></a>
 <br/>
 <br/>
-🌕 server
+## 🌕 server
 <br/>
 <br/>
 <a href='#'><img src="https://img.shields.io/badge/Node.js-87C643?style=flat-square&logo=Node.js&logoColor=white"/></a>
