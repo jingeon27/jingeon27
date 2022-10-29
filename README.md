@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <a href='#'><img src="https://img.shields.io/badge/React-32B2BA?style=flat-square&logo=React&logoColor=white"/></a>
-<a href='#'><img src="https://img.shields.io/badge/styled-components-EBAC9D?style=flat-square&logo=styled-components&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/styledcomponents-EBAC9D?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Axios-76438A?style=flat-square&logo=Axios&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Redux-7F42C3?style=flat-square&logo=Redux&logoColor=white"/></a>
