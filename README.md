@@ -12,7 +12,7 @@
 <a href='#'><img src="https://img.shields.io/badge/Express-32B2BA?style=flat-square&logo=Express&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Node.js-32B2BA?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/CSS3-32B2BA?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<a href='#'><img src="https://img.shields.io/badge/HTML5-32B2BA?style=flat-square&logo=HTML5s&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/HTML5-32B2BA?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Storybook-32B2BA?style=flat-square&logo=Storybook&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/TypeScript-32B2BA?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <!--
