@@ -5,7 +5,8 @@
 <br/>
 <a href='#'><img src="https://img.shields.io/badge/React-32B2BA?style=flat-square&logo=React&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/MongoDB-32B2BA?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-
+<a href='#'><img src="https://img.shields.io/badge/MySQL-32B2BA?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/Next.jsL-32B2BA?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <!--
 **jingeon27/jingeon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
