@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?render&animation=fadeIn&type=waving&color=0:000000,100:230C67&height=300&section=header&text=jingeon27&fontSize=90&fontColor=230C67)
 
 <!--
 **jingeon27/jingeon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
