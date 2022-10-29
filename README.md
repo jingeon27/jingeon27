@@ -4,12 +4,12 @@
 <br/>
 <br/>
 <a href='#'><img src="https://img.shields.io/badge/React-32B2BA?style=flat-square&logo=React&logoColor=white"/></a>
-<a href='#'><img src="https://img.shields.io/badge/MongoDB-0EB000?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<a href='#'><img src="https://img.shields.io/badge/MySQL-001560?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/MongoDB-108B4B?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Redux-7F42C3?style=flat-square&logo=Redux&logoColor=white"/></a>
-<a href='#'><img src="https://img.shields.io/badge/React Query-32B2BA?style=flat-square&logo=React Query&logoColor=white"/></a>
-<a href='#'><img src="https://img.shields.io/badge/Express-32B2BA?style=flat-square&logo=Express&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/Express-87C643?style=flat-square&logo=Express&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Node.js-32B2BA?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/CSS3-32B2BA?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/HTML5-32B2BA?style=flat-square&logo=HTML5&logoColor=white"/></a>
