@@ -16,6 +16,7 @@
 <a href='#'><img src="https://img.shields.io/badge/Storybook-32B2BA?style=flat-square&logo=Storybook&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/TypeScript-32B2BA?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/JavaScript-32B2BA?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/Preact-32B2BA?style=flat-square&logo=Preact&logoColor=white"/></a>
 <!--
 **jingeon27/jingeon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
