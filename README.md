@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?render&animation=fadeIn&type=waving&color=0:ffffff,100:230C67&height=300&section=header&text=jingeon27&fontSize=90&fontColor=230C67)
-
+📕skill
 <a href='#'><img src="https://img.shields.io/badge/React-32B2BA?style=flat-square&logo=React&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/MonggoDB-32B2BA?style=flat-square&logo=MonggoDB&logoColor=white"/></a>
 
 <!--
 **jingeon27/jingeon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
