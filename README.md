@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?render&animation=fadeIn&type=waving&color=0:ffffff,100:230C67&height=300&section=header&text=jingeon27&fontSize=90&fontColor=230C67)
 
+<a href="https://www.instagram.com/hongssup/“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/></a>
+
 <!--
 **jingeon27/jingeon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
