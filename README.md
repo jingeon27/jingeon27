@@ -6,7 +6,11 @@
 <a href='#'><img src="https://img.shields.io/badge/React-32B2BA?style=flat-square&logo=React&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/MongoDB-32B2BA?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/MySQL-32B2BA?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<a href='#'><img src="https://img.shields.io/badge/Next.jsL-32B2BA?style=flat-square&logo=Next.js&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/Next.js-32B2BA?style=flat-square&logo=Next.js&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/Redux-32B2BA?style=flat-square&logo=Redux&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/React Query-32B2BA?style=flat-square&logo=React Query&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/Express-32B2BA?style=flat-square&logo=Express&logoColor=white"/></a>
+<a href='#'><img src="https://img.shields.io/badge/Node.js-32B2BA?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <!--
 **jingeon27/jingeon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
