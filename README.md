@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?render&animation=fadeIn&type=waving&color=0:ffffff,100:230C67&height=300&section=header&text=jingeon27&fontSize=90&fontColor=230C67)
+<br/>
 📕skill
+<br/>
 <a href='#'><img src="https://img.shields.io/badge/React-32B2BA?style=flat-square&logo=React&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/MongoDB-32B2BA?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
