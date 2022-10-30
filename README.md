@@ -24,6 +24,8 @@
 🌕 server
 <br/>
 <br/>
+ <a href='#'><img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+ <a href='#'><img src="https://img.shields.io/badge/TypeScript-2D79C7?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Node.js-87C643?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
