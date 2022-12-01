@@ -28,7 +28,6 @@
  <a href='#'><img src="https://img.shields.io/badge/TypeScript-2D79C7?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Node.js-87C643?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
-<a href='#'><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/MongoDB-108B4B?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <a href='#'><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
