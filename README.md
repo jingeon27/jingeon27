@@ -1,6 +1,6 @@
 Hi
 
-군사교육소집훈련 (2026.02.18~2026.03.12)
+군사교육소집훈련 (2026.02.19~2026.03.12)
 <!--](url)
 **jingeon27/jingeon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
